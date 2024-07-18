@@ -1,3 +1,9 @@
+you can have this in the above link ==https://main.d2b20c0cuxphg4.amplifyapp.com/
+
+auth ->amazon cognito
+amazon amplify for deployment (ci/cd)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
